@@ -12,7 +12,7 @@ O projeto gta é uma landing page que simula o site da rockstar sobre o jogo Gra
 ## 🔗 Deploy
 
 Acesse o projeto finalizado no link a seguir !!
-[VERCEL](https://dodosantosbr.github.io/projeto-gta/)
+[PROJETO](https://dodosantosbr.github.io/projeto-gta/)
 
 ## :memo: Licença
 
